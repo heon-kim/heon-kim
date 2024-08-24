@@ -14,7 +14,7 @@
 ### Things I code with
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -29,23 +29,23 @@
 - 프론트엔드 개발
 - **프로젝트 설명 및 회고**
   - 기존 프로젝트로 만든 사이트를 개선하고 출시하는 프로젝트 ( 2022-07 ~ 2023-06 )
-    - **vanilla JS**와 MS Office JS를 이용하여 만들어진 사용자 페이지의 전체 UI/UX를 개선
-    - **Vue JS**를 이용하여 관리자 페이지의 전체 UI/UX를 개선
-    - QA와 협업하여 전체 **버그를 90%이상 줄임**
+    - 🌼 **vanilla JS**와 MS Office JS를 이용하여 만들어진 사용자 페이지의 전체 UI/UX를 개선   
+    - 🍀 **Vue JS**를 이용하여 관리자 페이지의 전체 UI/UX를 개선
+    - 🐞 QA와 협업하여 전체 **버그를 90%이상 줄임**
     - 구축된 Jenkins와 Azure Pipeline을 이용하여 배포 관리
-      - SonarQube 정적분석 관리
-      - Docker와 Kubernetes 이미지 배포
-    - **E2E 테스트 도입**을 통해 코드 신뢰성 향상
+      - 📃 SonarQube 정적분석 관리
+      - 🐳 Docker와 Kubernetes 이미지 배포
+    - 🧾 **E2E 테스트 도입**을 통해 코드 신뢰성 향상
     - 2023-06 출시
   - 신규 프로젝트로 새로운 사이트를 출시하는 프로젝트 ( 2023-01 ~ 2023-05 )
     - **Neo4j 그래프 DB** 리서치 및 구축
     - 데이터 표현 방식 및 저장 방식 설계
-    - **Vue JS**를 이용하여 프로젝트 생성
+    - 🍀 **Vue JS**를 이용하여 프로젝트 생성
     - 기획과 협업하여 UI/UX 개선
     - Jenkins와 Azure Pipeline을 이용하여 배포 관리
-      - E2E 사용자 시나리오 테스트
-      - SonarQube 정적 분석 관리
-      - Docker와 Kubernetes 이미지 배포
+      - 🧾 E2E 사용자 시나리오 테스트
+      - 📃 SonarQube 정적 분석 관리
+      - 🐳 Docker와 Kubernetes 이미지 배포
 
 
 ## 📖 Study
@@ -54,8 +54,6 @@
 ### Javascript DeepDive
 
 2023-01 ~ 2023-12
-
-[GitHub - javascript deepdive study](https://github.com/Javascript-sc/javascript-deepdive/tree/master)
 
 **스터디 회고**
 
