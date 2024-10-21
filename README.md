@@ -2,8 +2,8 @@
 
 - 안녕하세요 프론트엔드 개발자 김해원입니다.
 - 기술 변화에 꾸준히 호기심을 가지고 공부합니다.
-- 주어진 일만 하지 않고 더 좋은 서비스를 제공하기 위해 노력합
-- 문제가 있으면 해결합니다.
+- 주어진 일만 하지 않고 더 좋은 서비스를 제공하기 위해 노력합니다.
+- 문제가 있으면 끝까지 해결합니다.
 
 ### Contact & Channel
 
@@ -12,6 +12,7 @@
 - **Blog** https://blog.naver.com/21numbers
 
 ### Things I code with
+
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -23,6 +24,7 @@
       <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heon-kim&layout=compact)
 
 ## 💼 Work Experience
 ### 소프트캠프 
