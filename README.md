@@ -8,7 +8,7 @@
 
 - **Email** 21numbers@naver.com
 - **Github** https://github.com/heon-kim
-- **Blog** https://blog.naver.com/21numbers
+- **Blog** https://heonlog.netlify.app
 
 ### Things I code with
 
