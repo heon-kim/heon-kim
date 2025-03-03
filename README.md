@@ -40,11 +40,10 @@
 
 ### 하나은행 Digital hana 路 
 
-2024.08 ~ 
-
-진행중
+2024.08 ~ 2025. 02
 
 - 금융 및 은행업 이해 교육
 - 소스코드 관리 교육
 - UI/UX 디자인과 구현 (HTML/CSS, Tailwind)
-- 프론트엔드 개발 (Javascript)
+- 프론트엔드 개발 (Javascript, Typescript, React, Next.js)
+- 백엔드 개발 (JAVA, Spring Boot, MySQL)
