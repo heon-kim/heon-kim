@@ -25,25 +25,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heon-kim&layout=compact)
-
-## 💼 Work Experience
-### 소프트캠프 
-2022.07 ~ 2024.05
-- 기존 서비스 UI/UX 리뉴얼
-- QA와 협업하여 전체 버그를 90%이상 줄임
-- E2E 테스트 작성을 통해 코드 신뢰성 향상
-- Neo4j 그래프 DB 리서치 및 구축
-- 신사업 서비스 개발
-
-
-## 📚 Education
-
-### 하나은행 Digital hana 路 
-
-2024.08 ~ 2025. 02
-
-- 금융 및 은행업 이해 교육
-- 소스코드 관리 교육
-- UI/UX 디자인과 구현 (HTML/CSS, Tailwind)
-- 프론트엔드 개발 (Javascript, Typescript, React, Next.js)
-- 백엔드 개발 (JAVA, Spring Boot, MySQL)
